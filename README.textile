@@ -524,6 +524,7 @@ Using a combination of @metric@ and @interval@ you can return a range of content
 The response is flexible in the structure depending on the @metric@ used and the source of the content.
 
 Also included in the response is:
+
 pre. start: 201302191417,
 end: 201302191318,
 
