@@ -1,14 +1,3 @@
-h1. #MediaHackDay 2014 Berlin
-
-The token is;
-f90c68293243a072ddbfb5256553f60b
-
-Please use this base;
-api.mh.storyful.com
-
-e.g. 
-http://api.mh.storyful.com/stories?access_token=f90c68293243a072ddbfb5256553f60b
-
 h1. Storyful API Documentation
 
 The Storyful API provides read access to a variety of Storyful data. This documentation is not exhaustive but outlines the main methods and how to use the API.
